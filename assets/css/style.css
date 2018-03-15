@@ -1,7 +1,3 @@
-div {
-    border: 2px solid black;
-}
-
 table {
     /* border: 1px solid red; */
     margin: 10px auto;
@@ -9,5 +5,13 @@ table {
 }
 
 .card {
+    width: 100%;
+}
+
+.row {
+    margin-top: 2rem; 
+}
+
+.jumbotron {
     width: 100%;
 }
